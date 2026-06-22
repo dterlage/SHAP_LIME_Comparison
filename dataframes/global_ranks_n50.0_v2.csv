@@ -1,0 +1,13 @@
+feature,shap_rank_median,lime_rank_median
+customer_age,3.0,6.0
+device_type,8.0,7.0
+distance_from_home,3.0,2.0
+hour_of_day,9.0,7.0
+is_first_transaction,12.0,11.0
+is_weekend,11.0,11.0
+network_quality,4.0,6.0
+num_items,7.0,5.5
+prev_transactions,6.0,5.0
+store_type,10.0,9.0
+transaction_amount,3.0,5.0
+velocity_score,3.0,4.5
