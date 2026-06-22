@@ -213,7 +213,7 @@ def compare_shap_lime_local(df, target, noise, random_state, n):
 
         'mean_rank_overlap': all_runs_df['rank_overlap'].mean(),
         'std_rank_overlap': all_runs_df['rank_overlap'].std(),
-        'median_rank_overlap': ll_runs_df['rank_overlap'].median(),
+        'median_rank_overlap': all_runs_df['rank_overlap'].median(),
         'skew_rank_overlap': all_runs_df['rank_overlap'].skew(),
 
         'average_accuracy': accuracy}
