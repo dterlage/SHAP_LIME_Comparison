@@ -5,6 +5,7 @@ Repository for the experiments described in "Global and local comparison of SHAP
 - [🔎 Paper Details]()
     - [♻️ Reproduction]()
     - [🚀 Dependencies]()
+    - [🌱 Resources]()
 - [⭐ Experimental manipulation]()
 
 
@@ -36,6 +37,10 @@ shap==0.52.0
 
 
 ```
+
+### 🌱 Resources
+
+Running `Global.py` or `Local.py` on the Graphic card AMD Radeon RX 7800 XT with the processor AMD Ryzen 5 7600 takes approximately 80 minutes.
 
 ## ⭐ Experimental manipulation
 
